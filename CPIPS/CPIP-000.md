@@ -1,7 +1,7 @@
 # CPIP Purpose and Guidelines
-## CIP-000
+## CPIP-000
 
-| CIP | Title                      | Author | Status | Type | Category | Created |
+| CPIP | Title                      | Author | Status | Type | Category | Created |
 |---  |---                         |---     |---     | ---  | ---      |  ---    | 
 | 000 | Contract Secured Revenue   |0xjones [@0xjones](https://twitter.com/0xjones) | Draft | Meta | CCIP |2022-05-16 
 

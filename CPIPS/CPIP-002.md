@@ -1,8 +1,8 @@
 # Onboarding module
 
-## CIP-002
+## CPIP-002
 
-| CIP  | Title             | Author                                                       | Status | Type            | Category | Created    |
+| CPIP  | Title             | Author                                                       | Status | Type            | Category | Created    |
 | ---- | ----------------- | ------------------------------------------------------------ | ------ | --------------- | -------- | ---------- |
 | 002  | Onboarding module | Byungchul Park(@poorph), Hyunwoo Lee(@zsystm), Dongsam Byun(@dongsam) | Draft  | Standards Track | Core     | 2023-05-27 |
 
